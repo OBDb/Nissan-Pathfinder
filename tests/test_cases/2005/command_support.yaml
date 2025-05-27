@@ -1,6 +1,4 @@
 model_year: 2005
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 unsupported_commands_by_ecu:
   743:
   - 743.763.220E01
