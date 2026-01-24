@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_Pathfinder"
+
 generations:
   - name: "First Generation (WD21)"
     start_year: 1987
