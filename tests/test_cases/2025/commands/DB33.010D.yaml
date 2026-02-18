@@ -20,3 +20,8 @@ test_cases:
   response: |-
     18DAF11503410D26
     18DAF11803410D25
+- expected_values:
+    VSS: 54
+  response: |-
+    18DAF11503410D36
+    18DAF11803410D36
