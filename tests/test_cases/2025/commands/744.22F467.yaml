@@ -1,8 +1,8 @@
 command_id: 744.22F467
 test_cases:
 - expected_values:
-    NISSAN_ECT: 61
-  response: 7640462F46765
+    NISSAN_ECT: 50
+  response: 7640462F4675A
 - expected_values:
     NISSAN_ECT: 89
   response: 7640462F46781
