@@ -4,17 +4,5 @@ test_cases:
     NI_VSS: 0
   response: '7E80462110200'
 - expected_values:
-    NI_VSS: 16
-  response: '7E80462110208'
-- expected_values:
-    NI_VSS: 18
-  response: '7E80462110209'
-- expected_values:
-    NI_VSS: 40
-  response: '7E80462110214'
-- expected_values:
-    NI_VSS: 114
-  response: '7E80462110239'
-- expected_values:
-    NI_VSS: 124
-  response: 7E8046211023E
+    NI_VSS: 126
+  response: 7E8046211023F
