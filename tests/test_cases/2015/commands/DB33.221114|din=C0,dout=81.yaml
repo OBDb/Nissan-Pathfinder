@@ -1,0 +1,17 @@
+command_id: DB33.221114|din=C0,dout=81
+test_cases:
+- expected_values:
+    NI_FLI: 26.27451
+  response: '7E80462111443'
+- expected_values:
+    NI_FLI: 27.05882
+  response: '7E80462111445'
+- expected_values:
+    NI_FLI: 27.45098
+  response: '7E80462111446'
+- expected_values:
+    NI_FLI: 27.84314
+  response: '7E80462111447'
+- expected_values:
+    NI_FLI: 28.23529
+  response: '7E80462111448'
