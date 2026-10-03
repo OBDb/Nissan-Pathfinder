@@ -5,6 +5,10 @@ test_cases:
     NISSAN_TP_FR_743: null
   response: '76304620E2500'
 - expected_values:
+    NISSAN_TP_FR: 213.73749
+    NISSAN_TP_FR_743: 31
+  response: 76304620E257C
+- expected_values:
     NISSAN_TP_FR: 220.63224
     NISSAN_TP_FR_743: 32
   response: '76304620E2580'
