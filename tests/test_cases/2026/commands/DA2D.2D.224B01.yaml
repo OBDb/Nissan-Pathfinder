@@ -13,5 +13,8 @@ test_cases:
     NISSAN_FR_WHL_SPD: 26.71
   response: 18DAF12D05624B010A6F
 - expected_values:
+    NISSAN_FR_WHL_SPD: 49.61
+  response: 18DAF12D05624B011361
+- expected_values:
     NISSAN_FR_WHL_SPD: 97.87
   response: 18DAF12D05624B01263B
