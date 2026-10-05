@@ -4,6 +4,9 @@ test_cases:
     NISSAN_RL_WHL_SPD: 0
   response: 18DAF12D05624B020000
 - expected_values:
+    NISSAN_RL_WHL_SPD: 5.23
+  response: 18DAF12D05624B02020B
+- expected_values:
     NISSAN_RL_WHL_SPD: 19.63
   response: 18DAF12D05624B0207AB
 - expected_values:
@@ -12,6 +15,12 @@ test_cases:
 - expected_values:
     NISSAN_RL_WHL_SPD: 26.49
   response: 18DAF12D05624B020A59
+- expected_values:
+    NISSAN_RL_WHL_SPD: 33.86
+  response: 18DAF12D05624B020D3A
+- expected_values:
+    NISSAN_RL_WHL_SPD: 47.53
+  response: 18DAF12D05624B021291
 - expected_values:
     NISSAN_RL_WHL_SPD: 49.72
   response: 18DAF12D05624B02136C
