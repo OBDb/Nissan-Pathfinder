@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221221|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_PRI_SOL_MON: 0
+  response: '7E9056212210099'
+- expected_values:
+    NISSAN_TCM_PRI_SOL_MON: 0
+  response: 7E90562122100D0

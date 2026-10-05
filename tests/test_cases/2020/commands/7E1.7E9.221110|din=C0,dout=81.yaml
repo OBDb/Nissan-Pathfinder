@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.221110|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 400
+  response: '7E90462111010'
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 450
+  response: '7E90462111012'
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 600
+  response: '7E90462111018'
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 675
+  response: 7E9046211101B
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 750
+  response: 7E9046211101E
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 775
+  response: 7E9046211101F
+- expected_values:
+    NISSAN_TCM_SEL_P_TGT: 925
+  response: '7E90462111025'
