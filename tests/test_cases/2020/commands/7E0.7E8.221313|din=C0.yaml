@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221313|din=C0
+test_cases:
+- expected_values:
+    PATHFINDER_COOLING_FAN_HIGH: 0
+    PATHFINDER_COOLING_FAN_LOW: 0
+  response: '7E8056213130010'
+- expected_values:
+    PATHFINDER_COOLING_FAN_HIGH: 0
+    PATHFINDER_COOLING_FAN_LOW: 0
+  response: '7E8056213131010'

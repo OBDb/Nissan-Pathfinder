@@ -1,11 +1,11 @@
-command_id: 7E0.7E8.22122B
+command_id: 7E0.7E8.22122B|din=C0
 test_cases:
 - expected_values:
-    NISSAN_CC_S: 0
+    PATHFINDER_CC_S: null
   response: 7E80562122B0000
 - expected_values:
-    NISSAN_CC_S: 114.80625
+    PATHFINDER_CC_S: 114.80625
   response: 7E80562122B07F9
 - expected_values:
-    NISSAN_CC_S: 115.25625
+    PATHFINDER_CC_S: 115.25625
   response: 7E80562122B0801

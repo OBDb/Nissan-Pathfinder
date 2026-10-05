@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221101|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_VSS_SENS: 0
+    PATHFINDER_TCM_VSS_SENS: 0
   response: '7E90462110100'
 - expected_values:
-    NISSAN_TCM_VSS_SENS: 149
+    PATHFINDER_TCM_VSS_SENS: 149
   response: '7E90462110195'

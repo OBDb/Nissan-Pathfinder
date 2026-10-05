@@ -1,32 +1,32 @@
-command_id: 7E0.7E8.221124|din=C0,dout=81
+command_id: 7E0.7E8.221124|din=C0
 test_cases:
 - expected_values:
-    NISSAN_AF_ADJ_B2: -5
+    PATHFINDER_F_RAT_ADJ_B2: -5
   response: 7E8046211245F
 - expected_values:
-    NISSAN_AF_ADJ_B2: -4
+    PATHFINDER_F_RAT_ADJ_B2: -4
   response: '7E80462112460'
 - expected_values:
-    NISSAN_AF_ADJ_B2: -3
+    PATHFINDER_F_RAT_ADJ_B2: -3
   response: '7E80462112461'
 - expected_values:
-    NISSAN_AF_ADJ_B2: -2
+    PATHFINDER_F_RAT_ADJ_B2: -2
   response: '7E80462112462'
 - expected_values:
-    NISSAN_AF_ADJ_B2: 0
+    PATHFINDER_F_RAT_ADJ_B2: 0
   response: '7E80462112464'
 - expected_values:
-    NISSAN_AF_ADJ_B2: 1
+    PATHFINDER_F_RAT_ADJ_B2: 1
   response: '7E80462112465'
 - expected_values:
-    NISSAN_AF_ADJ_B2: 3
+    PATHFINDER_F_RAT_ADJ_B2: 3
   response: '7E80462112467'
 - expected_values:
-    NISSAN_AF_ADJ_B2: 4
+    PATHFINDER_F_RAT_ADJ_B2: 4
   response: '7E80462112468'
 - expected_values:
-    NISSAN_AF_ADJ_B2: 5
+    PATHFINDER_F_RAT_ADJ_B2: 5
   response: '7E80462112469'
 - expected_values:
-    NISSAN_AF_ADJ_B2: 6
+    PATHFINDER_F_RAT_ADJ_B2: 6
   response: 7E8046211246A

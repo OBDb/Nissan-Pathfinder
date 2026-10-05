@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.221215|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_PRI_TQ: 20.6
+    PATHFINDER_TCM_PRI_TQ: 20.6
   response: 7E90562121500CE
 - expected_values:
-    NISSAN_TCM_PRI_TQ: 154.4
+    PATHFINDER_TCM_PRI_TQ: 154.4
   response: '7E9056212150608'
 - expected_values:
-    NISSAN_TCM_PRI_TQ: -78.4
+    PATHFINDER_TCM_PRI_TQ: -78.4
   response: 7E905621215FCF0
 - expected_values:
-    NISSAN_TCM_PRI_TQ: -45.9
+    PATHFINDER_TCM_PRI_TQ: -45.9
   response: 7E905621215FE35

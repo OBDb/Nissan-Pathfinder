@@ -1,29 +1,29 @@
 command_id: DA2D.2D.224B02
 test_cases:
 - expected_values:
-    NISSAN_RL_WHL_SPD: 0
+    PATHFINDER_RL_WHL_SPD: 0
   response: 18DAF12D05624B020000
 - expected_values:
-    NISSAN_RL_WHL_SPD: 5.23
+    PATHFINDER_RL_WHL_SPD: 5.23
   response: 18DAF12D05624B02020B
 - expected_values:
-    NISSAN_RL_WHL_SPD: 19.63
+    PATHFINDER_RL_WHL_SPD: 19.63
   response: 18DAF12D05624B0207AB
 - expected_values:
-    NISSAN_RL_WHL_SPD: 22.5
+    PATHFINDER_RL_WHL_SPD: 22.5
   response: 18DAF12D05624B0208CA
 - expected_values:
-    NISSAN_RL_WHL_SPD: 26.49
+    PATHFINDER_RL_WHL_SPD: 26.49
   response: 18DAF12D05624B020A59
 - expected_values:
-    NISSAN_RL_WHL_SPD: 33.86
+    PATHFINDER_RL_WHL_SPD: 33.86
   response: 18DAF12D05624B020D3A
 - expected_values:
-    NISSAN_RL_WHL_SPD: 47.53
+    PATHFINDER_RL_WHL_SPD: 47.53
   response: 18DAF12D05624B021291
 - expected_values:
-    NISSAN_RL_WHL_SPD: 49.72
+    PATHFINDER_RL_WHL_SPD: 49.72
   response: 18DAF12D05624B02136C
 - expected_values:
-    NISSAN_RL_WHL_SPD: 97.59
+    PATHFINDER_RL_WHL_SPD: 97.59
   response: 18DAF12D05624B02261F

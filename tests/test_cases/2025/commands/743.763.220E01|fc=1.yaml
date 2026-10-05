@@ -1,14 +1,11 @@
 command_id: 743.763.220E01|fc=1
 test_cases:
 - expected_values:
-    NISSAN_ODO: 139
-    NISSAN_ODO_PRE25: 139
+    PATHFINDER_ODO: 139
   response: 76306620E0100008B
 - expected_values:
-    NISSAN_ODO: 23622
-    NISSAN_ODO_PRE25: 23622
+    PATHFINDER_ODO: 23622
   response: 76306620E01005C46
 - expected_values:
-    NISSAN_ODO: 23693
-    NISSAN_ODO_PRE25: 23693
+    PATHFINDER_ODO: 23693
   response: 76306620E01005C8D

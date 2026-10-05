@@ -1,20 +1,20 @@
 command_id: 744.764.224007
 test_cases:
 - expected_values:
-    NISSAN_AC_STATUS: 0
+    PATHFINDER_AC_STATUS: 0
   response: '7640762400700400000'
 - expected_values:
-    NISSAN_AC_STATUS: 136
+    PATHFINDER_AC_STATUS: 136
   response: '7640762400788341400'
 - expected_values:
-    NISSAN_AC_STATUS: 136
+    PATHFINDER_AC_STATUS: 136
   response: '7640762400788701000'
 - expected_values:
-    NISSAN_AC_STATUS: 136
+    PATHFINDER_AC_STATUS: 136
   response: '7640762400788741000'
 - expected_values:
-    NISSAN_AC_STATUS: 137
+    PATHFINDER_AC_STATUS: 137
   response: '7640762400789141400'
 - expected_values:
-    NISSAN_AC_STATUS: 137
+    PATHFINDER_AC_STATUS: 137
   response: '7640762400789341400'

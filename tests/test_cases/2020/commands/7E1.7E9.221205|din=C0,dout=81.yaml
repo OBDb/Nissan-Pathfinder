@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221205|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 0.58651
+    PATHFINDER_TCM_SEC_P_V: 0.58651
   response: '7E9056212050078'
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.14858
+    PATHFINDER_TCM_SEC_P_V: 1.14858
   response: 7E90562120500EB
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.34409
+    PATHFINDER_TCM_SEC_P_V: 1.34409
   response: '7E9056212050113'

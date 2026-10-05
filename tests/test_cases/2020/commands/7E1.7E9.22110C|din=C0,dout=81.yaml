@@ -1,29 +1,29 @@
 command_id: 7E1.7E9.22110C|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_ATF_T: 36
+    PATHFINDER_TCM_ATF_T: 36
   response: 7E90462110C4C
 - expected_values:
-    NISSAN_TCM_ATF_T: 41
+    PATHFINDER_TCM_ATF_T: 41
   response: 7E90462110C51
 - expected_values:
-    NISSAN_TCM_ATF_T: 44
+    PATHFINDER_TCM_ATF_T: 44
   response: 7E90462110C54
 - expected_values:
-    NISSAN_TCM_ATF_T: 48
+    PATHFINDER_TCM_ATF_T: 48
   response: 7E90462110C58
 - expected_values:
-    NISSAN_TCM_ATF_T: 53
+    PATHFINDER_TCM_ATF_T: 53
   response: 7E90462110C5D
 - expected_values:
-    NISSAN_TCM_ATF_T: 58
+    PATHFINDER_TCM_ATF_T: 58
   response: 7E90462110C62
 - expected_values:
-    NISSAN_TCM_ATF_T: 60
+    PATHFINDER_TCM_ATF_T: 60
   response: 7E90462110C64
 - expected_values:
-    NISSAN_TCM_ATF_T: 62
+    PATHFINDER_TCM_ATF_T: 62
   response: 7E90462110C66
 - expected_values:
-    NISSAN_TCM_ATF_T: 63
+    PATHFINDER_TCM_ATF_T: 63
   response: 7E90462110C67
