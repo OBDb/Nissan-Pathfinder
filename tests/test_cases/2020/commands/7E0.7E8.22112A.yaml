@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22112A
+test_cases:
+- expected_values:
+    NISSAN_MANIFOLD_P_SENS_V: 0
+  response: 7E80462112A00

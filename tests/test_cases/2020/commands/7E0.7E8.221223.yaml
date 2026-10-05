@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221223
+test_cases:
+- expected_values:
+    NISSAN_REFRIGERANT_FLUID_V: 1.335
+  response: 7E805621223010B
+- expected_values:
+    NISSAN_REFRIGERANT_FLUID_V: 1.715
+  response: '7E8056212230157'
