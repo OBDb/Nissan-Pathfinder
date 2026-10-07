@@ -4,8 +4,8 @@ test_cases:
     NISSAN_TCM_G_V: 0
   response: '7E9056212080000'
 - expected_values:
-    NISSAN_TCM_G_V: -0.078
-  response: 7E905621208FCF4
+    NISSAN_TCM_G_V: -0.052
+  response: 7E905621208FDF8
 - expected_values:
     NISSAN_TCM_G_V: -0.024
   response: 7E905621208FF10

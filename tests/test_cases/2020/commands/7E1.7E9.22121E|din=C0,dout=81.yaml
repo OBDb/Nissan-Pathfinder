@@ -5,4 +5,4 @@ test_cases:
   response: 7E90562121E0000
 - expected_values:
     NISSAN_TCM_SOL_MON_1: 0
-  response: 7E90562121E00B8
+  response: 7E90562121E00B9
