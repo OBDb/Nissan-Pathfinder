@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22120F|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_RPM_2: 653
-  response: 7E90562120F028D
+    NISSAN_TCM_RPM_2: 650
+  response: 7E90562120F028A
 - expected_values:
     NISSAN_TCM_RPM_2: 759
   response: 7E90562120F02F7
@@ -10,5 +10,5 @@ test_cases:
     NISSAN_TCM_RPM_2: 1031
   response: 7E90562120F0407
 - expected_values:
-    NISSAN_TCM_RPM_2: 2743
-  response: 7E90562120F0AB7
+    NISSAN_TCM_RPM_2: 2915
+  response: 7E90562120F0B63

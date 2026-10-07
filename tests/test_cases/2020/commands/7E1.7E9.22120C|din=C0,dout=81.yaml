@@ -7,8 +7,8 @@ test_cases:
     NISSAN_TCM_INPUT_RPM_2: 1028
   response: 7E90562120C0404
 - expected_values:
-    NISSAN_TCM_INPUT_RPM_2: 1515
-  response: 7E90562120C05EB
+    NISSAN_TCM_INPUT_RPM_2: 1788
+  response: 7E90562120C06FC
 - expected_values:
-    NISSAN_TCM_INPUT_RPM_2: 2717
-  response: 7E90562120C0A9D
+    NISSAN_TCM_INPUT_RPM_2: 2928
+  response: 7E90562120C0B70

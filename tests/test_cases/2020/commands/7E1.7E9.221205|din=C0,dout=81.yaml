@@ -4,8 +4,11 @@ test_cases:
     NISSAN_TCM_SEC_P_V: 0.58651
   response: '7E9056212050078'
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.2219
-  response: 7E90562120500FA
+    NISSAN_TCM_SEC_P_V: 1.22678
+  response: 7E90562120500FB
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.34409
-  response: '7E9056212050113'
+    NISSAN_TCM_SEC_P_V: 1.25122
+  response: '7E9056212050100'
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 2.67351
+  response: '7E9056212050223'
