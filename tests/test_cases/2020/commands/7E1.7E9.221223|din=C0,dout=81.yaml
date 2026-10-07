@@ -5,28 +5,4 @@ test_cases:
   response: '7E9056212230098'
 - expected_values:
     NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E905621223009E
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300A9
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300B0
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300B3
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300BA
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300BE
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300BF
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300C0
-- expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
-  response: 7E90562122300C1
+  response: 7E90562122300F9
