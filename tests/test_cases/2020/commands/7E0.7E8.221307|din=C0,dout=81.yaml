@@ -8,3 +8,7 @@ test_cases:
     NISSAN_AC_COMP: 1
     NISSAN_IDLE_CTRL_MODE: 0
   response: '7E8056213074446'
+- expected_values:
+    NISSAN_AC_COMP: 1
+    NISSAN_IDLE_CTRL_MODE: 1
+  response: '7E8056213074646'

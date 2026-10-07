@@ -8,4 +8,4 @@ test_cases:
   response: 7E90562121D02F9
 - expected_values:
     NISSAN_TCM_SEL_SOL_C: 0.003
-  response: 7E90562121D0302
+  response: 7E90562121D0300

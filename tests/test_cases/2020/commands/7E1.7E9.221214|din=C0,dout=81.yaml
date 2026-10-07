@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221214|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_ENG_TQ: 24.5
-  response: 7E90562121400F5
+    NISSAN_TCM_ENG_TQ: 15.5
+  response: 7E905621214009B
 - expected_values:
     NISSAN_TCM_ENG_TQ: 155
   response: 7E905621214060E

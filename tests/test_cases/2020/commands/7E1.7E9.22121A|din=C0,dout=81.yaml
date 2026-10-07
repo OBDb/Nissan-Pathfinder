@@ -5,7 +5,7 @@ test_cases:
   response: 7E90562121A0299
 - expected_values:
     NISSAN_TCM_ISO_2_C: 0.002
-  response: 7E90562121A02EF
+  response: 7E90562121A02F6
 - expected_values:
     NISSAN_TCM_ISO_2_C: 0.003
-  response: 7E90562121A030B
+  response: 7E90562121A0309

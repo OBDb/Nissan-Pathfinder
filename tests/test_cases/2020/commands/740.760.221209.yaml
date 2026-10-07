@@ -13,5 +13,20 @@ test_cases:
     NISSAN_BRAKE_MC_P: 22
   response: '760056212090016'
 - expected_values:
+    NISSAN_BRAKE_MC_P: 144
+  response: '760056212090090'
+- expected_values:
+    NISSAN_BRAKE_MC_P: 146
+  response: '760056212090092'
+- expected_values:
+    NISSAN_BRAKE_MC_P: 147
+  response: '760056212090093'
+- expected_values:
+    NISSAN_BRAKE_MC_P: 149
+  response: '760056212090095'
+- expected_values:
+    NISSAN_BRAKE_MC_P: 167
+  response: 7600562120900A7
+- expected_values:
     NISSAN_BRAKE_MC_P: 213
   response: 7600562120900D5
