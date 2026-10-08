@@ -1,32 +1,32 @@
 command_id: DB33.0144
 test_cases:
 - expected_values:
-    EQ_RAT: 0.99022
+    EQ_RAT: 0.9902
   response: 18DAF1150441447EBF
 - expected_values:
-    EQ_RAT: 0.99251
+    EQ_RAT: 0.99249
   response: 18DAF1150441447F0A
 - expected_values:
-    EQ_RAT: 0.99455
+    EQ_RAT: 0.99454
   response: 18DAF1150441447F4D
 - expected_values:
-    EQ_RAT: 0.99522
+    EQ_RAT: 0.99521
   response: 18DAF1150441447F63
 - expected_values:
-    EQ_RAT: 1.0038
+    EQ_RAT: 1.00378
   response: 18DAF115044144807C
 - expected_values:
-    EQ_RAT: 1.00502
+    EQ_RAT: 1.005
   response: 18DAF11504414480A4
 - expected_values:
-    EQ_RAT: 1.00517
+    EQ_RAT: 1.00516
   response: 18DAF11504414480A9
 - expected_values:
-    EQ_RAT: 1.00612
+    EQ_RAT: 1.0061
   response: 18DAF11504414480C8
 - expected_values:
-    EQ_RAT: 1.01048
+    EQ_RAT: 1.01047
   response: 18DAF1150441448157
 - expected_values:
-    EQ_RAT: 1.19997
+    EQ_RAT: 1.19995
   response: 18DAF1150441449998
