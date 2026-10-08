@@ -4,5 +4,5 @@ test_cases:
     NISSAN_TCM_LINE_P: 1025
   response: 7E90462110E29
 - expected_values:
-    NISSAN_TCM_LINE_P: 4150
-  response: 7E90462110EA6
+    NISSAN_TCM_LINE_P: 5800
+  response: 7E90462110EE8
