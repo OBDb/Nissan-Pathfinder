@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221111|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_SEC_P_TGT: 350
-  response: 7E9046211110E
+    NISSAN_TCM_SEC_P_TGT: 275
+  response: 7E9046211110B
 - expected_values:
     NISSAN_TCM_SEC_P_TGT: 4125
   response: 7E904621111A5
