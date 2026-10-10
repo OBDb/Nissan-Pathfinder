@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221214|din=C0,dout=81
 test_cases:
 - expected_values:
-    PATHFINDER_TCM_ENG_TQ: 7
-  response: '7E9056212140046'
+    PATHFINDER_TCM_ENG_TQ: 4
+  response: '7E9056212140028'
 - expected_values:
     PATHFINDER_TCM_ENG_TQ: 26
   response: '7E9056212140104'

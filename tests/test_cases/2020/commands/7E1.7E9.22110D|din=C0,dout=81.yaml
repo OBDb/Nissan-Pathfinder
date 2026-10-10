@@ -4,5 +4,5 @@ test_cases:
     PATHFINDER_TCM_LUBE_P: 0
   response: 7E90462110D00
 - expected_values:
-    PATHFINDER_TCM_LUBE_P: -50
-  response: 7E90462110DFB
+    PATHFINDER_TCM_LUBE_P: -10
+  response: 7E90462110DFF

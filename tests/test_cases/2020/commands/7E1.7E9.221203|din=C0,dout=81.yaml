@@ -4,8 +4,8 @@ test_cases:
     PATHFINDER_TCM_SEC_RPM: 0
   response: '7E9056212030000'
 - expected_values:
-    PATHFINDER_TCM_SEC_RPM: 2548
-  response: 7E90562120309F4
+    PATHFINDER_TCM_SEC_RPM: 4092
+  response: 7E9056212030FFC
 - expected_values:
     PATHFINDER_TCM_SEC_RPM: 5764
   response: '7E9056212031684'

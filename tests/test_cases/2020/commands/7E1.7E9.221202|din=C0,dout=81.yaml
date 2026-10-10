@@ -4,8 +4,8 @@ test_cases:
     PATHFINDER_TCM_PRI_RPM: 0
   response: '7E9056212020000'
 - expected_values:
-    PATHFINDER_TCM_PRI_RPM: 1015
-  response: 7E90562120203F7
+    PATHFINDER_TCM_PRI_RPM: 763
+  response: 7E90562120202FB
 - expected_values:
     PATHFINDER_TCM_PRI_RPM: 3639
   response: 7E9056212020E37
