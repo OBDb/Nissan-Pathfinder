@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.221307|din=C0
+command_id: 7E0.7E8.221307|din=C0,dout=81
 test_cases:
 - expected_values:
     PATHFINDER_AC_COMP: 0

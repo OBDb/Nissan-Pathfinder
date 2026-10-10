@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.221139|din=C0
+command_id: 7E0.7E8.221139|din=C0,dout=81
 test_cases:
 - expected_values:
     PATHFINDER_CAM_VLV_DUTY_B2: 0

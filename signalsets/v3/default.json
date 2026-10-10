@@ -54,7 +54,7 @@
     {"id": "PATHFINDER_WHL_3_P", "path": "Tires", "fmt": {"bix": 32, "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Wheel 3 pressure"},
     {"id": "PATHFINDER_WHL_4_P", "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Wheel 4 pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "C0", "cmd": {"22": "1124"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "din": "C0", "dout": "81", "cmd": {"22": "1124"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "PATHFINDER_F_RAT_ADJ_B2", "path": "Engine", "fmt": { "len": 8, "max": 155, "min": -100, "add": -100, "unit": "percent" }, "name": "Air/fuel ratio adjustment, bank 2"}
   ]},
@@ -62,7 +62,7 @@
   "signals": [
     {"id": "PATHFINDER_MANIFOLD_P_SENS_V", "path": "Battery", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Manifold pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "C0", "cmd": {"22": "1139"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "din": "C0", "dout": "81", "cmd": {"22": "1139"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "PATHFINDER_CAM_VLV_DUTY_B2", "path": "Engine", "fmt": { "len": 8, "max": 99.6, "mul": 25, "div": 64, "unit": "percent" }, "name": "Camshaft valve duty, bank 2"}
   ]},
@@ -74,11 +74,11 @@
   "signals": [
     {"id": "PATHFINDER_UP_OXYGEN_SENS_V", "path": "Battery", "fmt": { "len": 16, "max": 327, "div": 200, "unit": "volts" }, "name": "Upstream oxygen sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "C0", "cmd": {"22": "122B"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019], "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "din": "C0", "dout": "81", "cmd": {"22": "122B"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019], "from": 2021 },
   "signals": [
     {"id": "PATHFINDER_CC_S", "path": "Cruise control", "fmt": { "len": 16, "max": 3686, "mul": 9, "div": 160, "nullmin": 0, "unit": "kilometersPerHour" }, "name": "Cruise control set speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "C0", "cmd": {"22": "1307"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "din": "C0", "dout": "81", "cmd": {"22": "1307"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "PATHFINDER_AC_COMP",        "path": "Engine", "fmt": {"bix": 1, "len": 1, "max": 1, "unit": "scalar" }, "name": "Air conditioning compressor"},
     {"id": "PATHFINDER_IDLE_CTRL_MODE", "path": "Engine", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "scalar" }, "name": "Idle control mode"}
@@ -88,7 +88,7 @@
     {"id": "PATHFINDER_BRAKE_SWITCH_NUMBER_2", "path": "Control", "fmt": {"bix": 2, "len": 1, "max": 1, "unit": "offon" }, "name": "BRAKE SWITCH, number 2"},
     {"id": "PATHFINDER_BRAKE_SWITCH_NUMBER_1", "path": "Control", "fmt": {"bix": 3, "len": 1, "max": 1, "unit": "offon" }, "name": "BRAKE SWITCH, number 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "C0", "cmd": {"22": "1313"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "din": "C0", "dout": "81", "cmd": {"22": "1313"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "PATHFINDER_COOLING_FAN_LOW",  "path": "Engine", "fmt": {"bix": 5, "len": 1, "max": 1, "unit": "scalar" }, "name": "Cooling fan low"},
     {"id": "PATHFINDER_COOLING_FAN_HIGH", "path": "Engine", "fmt": {"bix": 7, "len": 1, "max": 1, "unit": "scalar" }, "name": "Cooling fan high"}
