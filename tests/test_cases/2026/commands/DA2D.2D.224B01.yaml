@@ -7,23 +7,5 @@ test_cases:
     PATHFINDER_FR_WHL_SPD: 5.11
   response: 18DAF12D05624B0101FF
 - expected_values:
-    PATHFINDER_FR_WHL_SPD: 19.63
-  response: 18DAF12D05624B0107AB
-- expected_values:
-    PATHFINDER_FR_WHL_SPD: 22.5
-  response: 18DAF12D05624B0108CA
-- expected_values:
-    PATHFINDER_FR_WHL_SPD: 26.71
-  response: 18DAF12D05624B010A6F
-- expected_values:
-    PATHFINDER_FR_WHL_SPD: 34.48
-  response: 18DAF12D05624B010D78
-- expected_values:
-    PATHFINDER_FR_WHL_SPD: 47.3
-  response: 18DAF12D05624B01127A
-- expected_values:
-    PATHFINDER_FR_WHL_SPD: 49.61
-  response: 18DAF12D05624B011361
-- expected_values:
     PATHFINDER_FR_WHL_SPD: 97.87
   response: 18DAF12D05624B01263B

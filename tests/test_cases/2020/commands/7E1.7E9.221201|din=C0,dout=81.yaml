@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221201|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_INPUT_RPM: 0
+    PATHFINDER_TCM_INPUT_RPM: 0
   response: '7E9056212010000'
 - expected_values:
-    NISSAN_TCM_INPUT_RPM: 230
-  response: 7E90562120100E6
+    PATHFINDER_TCM_INPUT_RPM: 1786
+  response: 7E90562120106FA
 - expected_values:
-    NISSAN_TCM_INPUT_RPM: 2923
+    PATHFINDER_TCM_INPUT_RPM: 2923
   response: 7E9056212010B6B

@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221216|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_TQ_RAT: 0.9232
+    PATHFINDER_TCM_TQ_RAT: 0.9232
   response: '7E9056212160100'
 - expected_values:
-    NISSAN_TCM_TQ_RAT: 1.77067
+    PATHFINDER_TCM_TQ_RAT: 1.77067
   response: 7E90562121601EB

@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.221307|din=C0
 test_cases:
 - expected_values:
+    PATHFINDER_AC_COMP: 0
+    PATHFINDER_IDLE_CTRL_MODE: 1
+  response: '7E8056213070646'
+- expected_values:
     PATHFINDER_AC_COMP: 1
     PATHFINDER_IDLE_CTRL_MODE: 1
   response: '7E8056213074246'
@@ -8,3 +12,7 @@ test_cases:
     PATHFINDER_AC_COMP: 1
     PATHFINDER_IDLE_CTRL_MODE: 0
   response: '7E8056213074446'
+- expected_values:
+    PATHFINDER_AC_COMP: 1
+    PATHFINDER_IDLE_CTRL_MODE: 1
+  response: '7E8056213074646'

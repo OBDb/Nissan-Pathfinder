@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221207|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_ATF_T_V: 1.08016
+    PATHFINDER_TCM_ATF_T_V: 1.08016
   response: 7E90562120700DD
 - expected_values:
-    NISSAN_TCM_ATF_T_V: 1.23656
+    PATHFINDER_TCM_ATF_T_V: 1.23656
   response: 7E90562120700FD
 - expected_values:
-    NISSAN_TCM_ATF_T_V: 1.25122
+    PATHFINDER_TCM_ATF_T_V: 1.25122
   response: '7E9056212070100'

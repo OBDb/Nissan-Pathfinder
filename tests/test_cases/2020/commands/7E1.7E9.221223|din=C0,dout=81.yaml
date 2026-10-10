@@ -1,8 +1,11 @@
 command_id: 7E1.7E9.221223|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
+    PATHFINDER_TCM_SEL_SOL_MON: 0
   response: 7E905621223008A
 - expected_values:
-    NISSAN_TCM_SEL_SOL_MON: 0
+    PATHFINDER_TCM_SEL_SOL_MON: 0
   response: 7E90562122300FA
+- expected_values:
+    PATHFINDER_TCM_SEL_SOL_MON: 0.001
+  response: '7E9056212230103'
