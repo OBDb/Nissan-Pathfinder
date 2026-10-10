@@ -10,5 +10,5 @@ test_cases:
     PATHFINDER_TCM_PRI_TQ: 101.6
   response: 7E90562121503F8
 - expected_values:
-    PATHFINDER_TCM_PRI_TQ: -50.2
-  response: 7E905621215FE0A
+    PATHFINDER_TCM_PRI_TQ: -23.4
+  response: 7E905621215FF16

@@ -4,5 +4,5 @@ test_cases:
     PATHFINDER_F_RAT_ADJ_B2: -14
   response: '7E80462112456'
 - expected_values:
-    PATHFINDER_F_RAT_ADJ_B2: 11
-  response: 7E8046211246F
+    PATHFINDER_F_RAT_ADJ_B2: 18
+  response: '7E80462112476'

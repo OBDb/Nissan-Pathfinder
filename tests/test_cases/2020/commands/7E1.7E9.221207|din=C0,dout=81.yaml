@@ -4,8 +4,8 @@ test_cases:
     PATHFINDER_TCM_ATF_T_V: 1.08016
   response: 7E90562120700DD
 - expected_values:
-    PATHFINDER_TCM_ATF_T_V: 1.23656
-  response: 7E90562120700FD
+    PATHFINDER_TCM_ATF_T_V: 1.24633
+  response: 7E90562120700FF
 - expected_values:
     PATHFINDER_TCM_ATF_T_V: 1.25122
   response: '7E9056212070100'

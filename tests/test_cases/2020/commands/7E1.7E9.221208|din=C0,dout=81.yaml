@@ -4,8 +4,8 @@ test_cases:
     PATHFINDER_TCM_G_V: 0
   response: '7E9056212080000'
 - expected_values:
-    PATHFINDER_TCM_G_V: -0.052
-  response: 7E905621208FDF8
+    PATHFINDER_TCM_G_V: 0.051
+  response: 7E90562120801FE
 - expected_values:
-    PATHFINDER_TCM_G_V: -0.024
-  response: 7E905621208FF10
+    PATHFINDER_TCM_G_V: -0.025
+  response: 7E905621208FF06

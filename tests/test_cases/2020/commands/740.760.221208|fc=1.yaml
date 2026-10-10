@@ -4,8 +4,8 @@ test_cases:
     PATHFINDER_ABS_STEER_ANG: 0
   response: '760056212080000'
 - expected_values:
-    PATHFINDER_ABS_STEER_ANG: -18.6
-  response: 76005621208FF46
+    PATHFINDER_ABS_STEER_ANG: -19.6
+  response: 76005621208FF3C
 - expected_values:
     PATHFINDER_ABS_STEER_ANG: -0.3
   response: 76005621208FFFD
