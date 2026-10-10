@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22110D|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_LUBE_P: 0
+    PATHFINDER_TCM_LUBE_P: 0
   response: 7E90462110D00
 - expected_values:
-    NISSAN_TCM_LUBE_P: -50
+    PATHFINDER_TCM_LUBE_P: -50
   response: 7E90462110DFB

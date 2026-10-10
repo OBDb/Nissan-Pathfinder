@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.221205|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 0.58651
-  response: '7E9056212050078'
+    PATHFINDER_TCM_SEC_P_V: 0.435
+  response: '7E9056212050059'
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.22678
-  response: 7E90562120500FB
+    PATHFINDER_TCM_SEC_P_V: 1.23167
+  response: 7E90562120500FC
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.25122
+    PATHFINDER_TCM_SEC_P_V: 1.25122
   response: '7E9056212050100'
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 2.67351
+    PATHFINDER_TCM_SEC_P_V: 2.67351
   response: '7E9056212050223'

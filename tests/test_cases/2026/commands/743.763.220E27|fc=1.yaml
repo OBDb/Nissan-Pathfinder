@@ -1,26 +1,20 @@
 command_id: 743.763.220E27|fc=1
 test_cases:
 - expected_values:
-    NISSAN_TP_RR: null
-    NISSAN_TP_RR_743: null
+    PATHFINDER_TP_RR: null
   response: '76304620E2700'
 - expected_values:
-    NISSAN_TP_RR: 220.63224
-    NISSAN_TP_RR_743: 32
+    PATHFINDER_TP_RR: 32
   response: '76304620E2780'
 - expected_values:
-    NISSAN_TP_RR: 227.527
-    NISSAN_TP_RR_743: 33
+    PATHFINDER_TP_RR: 33
   response: '76304620E2784'
 - expected_values:
-    NISSAN_TP_RR: 234.42176
-    NISSAN_TP_RR_743: 34
+    PATHFINDER_TP_RR: 34
   response: '76304620E2788'
 - expected_values:
-    NISSAN_TP_RR: 241.31652
-    NISSAN_TP_RR_743: 35
+    PATHFINDER_TP_RR: 35
   response: 76304620E278C
 - expected_values:
-    NISSAN_TP_RR: 248.21127
-    NISSAN_TP_RR_743: 36
+    PATHFINDER_TP_RR: 36
   response: '76304620E2790'
