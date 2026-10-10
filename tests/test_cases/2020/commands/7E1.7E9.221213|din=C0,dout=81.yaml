@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221213|din=C0,dout=81
 test_cases:
 - expected_values:
-    PATHFINDER_TCM_ENG_TQ_TX: 2
+    NISSAN_TCM_ENG_TQ_TX: 2
   response: '7E9056212130014'
 - expected_values:
-    PATHFINDER_TCM_ENG_TQ_TX: 24
-  response: 7E90562121300F0
+    NISSAN_TCM_ENG_TQ_TX: 102
+  response: 7E90562121303FC
 - expected_values:
-    PATHFINDER_TCM_ENG_TQ_TX: 300
-  response: 7E9056212130BB8
+    NISSAN_TCM_ENG_TQ_TX: 282
+  response: 7E9056212130B04

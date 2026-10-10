@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.22120C|din=C0,dout=81
 test_cases:
 - expected_values:
-    PATHFINDER_TCM_INPUT_RPM_2: 14
+    NISSAN_TCM_INPUT_RPM_2: 14
   response: 7E90562120C000E
 - expected_values:
-    PATHFINDER_TCM_INPUT_RPM_2: 1286
-  response: 7E90562120C0506
+    NISSAN_TCM_INPUT_RPM_2: 1028
+  response: 7E90562120C0404
 - expected_values:
-    PATHFINDER_TCM_INPUT_RPM_2: 1515
-  response: 7E90562120C05EB
+    NISSAN_TCM_INPUT_RPM_2: 1788
+  response: 7E90562120C06FC
 - expected_values:
-    PATHFINDER_TCM_INPUT_RPM_2: 2717
-  response: 7E90562120C0A9D
+    NISSAN_TCM_INPUT_RPM_2: 2928
+  response: 7E90562120C0B70

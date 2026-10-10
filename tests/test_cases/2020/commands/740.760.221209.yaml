@@ -1,17 +1,8 @@
 command_id: 740.760.221209
 test_cases:
 - expected_values:
-    PATHFINDER_BRAKE_MC_P: 0
+    NISSAN_BRAKE_MC_P: 0
   response: '760056212090000'
 - expected_values:
-    PATHFINDER_BRAKE_MC_P: 4.55729
-  response: '760056212090007'
-- expected_values:
-    PATHFINDER_BRAKE_MC_P: 11.06771
-  response: '760056212090011'
-- expected_values:
-    PATHFINDER_BRAKE_MC_P: 14.32292
-  response: '760056212090016'
-- expected_values:
-    PATHFINDER_BRAKE_MC_P: 138.67188
-  response: 7600562120900D5
+    NISSAN_BRAKE_MC_P: -2
+  response: 76005621209FFFE

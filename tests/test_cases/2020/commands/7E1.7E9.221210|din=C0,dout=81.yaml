@@ -1,11 +1,14 @@
 command_id: 7E1.7E9.221210|din=C0,dout=81
 test_cases:
 - expected_values:
-    PATHFINDER_TCM_PULLEY_RAT: 0.3981
+    NISSAN_TCM_PULLEY_RAT: 0.3981
   response: 7E9056212100F8D
 - expected_values:
-    PATHFINDER_TCM_PULLEY_RAT: 0.6171
-  response: 7E905621210181B
+    NISSAN_TCM_PULLEY_RAT: 0.7682
+  response: 7E9056212101E02
 - expected_values:
-    PATHFINDER_TCM_PULLEY_RAT: 2.61
+    NISSAN_TCM_PULLEY_RAT: 2.5847
+  response: 7E90562121064F7
+- expected_values:
+    NISSAN_TCM_PULLEY_RAT: 2.61
   response: 7E90562121065F4

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221225
 test_cases:
 - expected_values:
-    PATHFINDER_UP_OXYGEN_SENS_V: 1.995
-  response: 7E805621225018F
+    NISSAN_UP_OXYGEN_SENS_V: 1.925
+  response: '7E8056212250181'
 - expected_values:
-    PATHFINDER_UP_OXYGEN_SENS_V: 3.36
-  response: 7E80562122502A0
+    NISSAN_UP_OXYGEN_SENS_V: 3.825
+  response: 7E80562122502FD
 - expected_values:
-    PATHFINDER_UP_OXYGEN_SENS_V: 3.73
-  response: 7E80562122502EA
+    NISSAN_UP_OXYGEN_SENS_V: 3.85
+  response: '7E8056212250302'
