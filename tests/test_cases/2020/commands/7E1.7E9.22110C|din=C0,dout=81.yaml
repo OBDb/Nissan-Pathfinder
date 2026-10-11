@@ -4,5 +4,5 @@ test_cases:
     PATHFINDER_TCM_ATF_T: 36
   response: 7E90462110C4C
 - expected_values:
-    PATHFINDER_TCM_ATF_T: 70
-  response: 7E90462110C6E
+    PATHFINDER_TCM_ATF_T: 75
+  response: 7E90462110C73
