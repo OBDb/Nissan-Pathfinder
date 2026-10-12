@@ -1,0 +1,35 @@
+command_id: 743.763.220E25|fc=1,f=2021-;-2012
+test_cases:
+- expected_values:
+    PATHFINDER_TP_FR: null
+  response: '76304620E2500'
+- expected_values:
+    PATHFINDER_TP_FR: 31
+  response: 76304620E257C
+- expected_values:
+    PATHFINDER_TP_FR: 32
+  response: '76304620E2580'
+- expected_values:
+    PATHFINDER_TP_FR: 33
+  response: '76304620E2584'
+- expected_values:
+    PATHFINDER_TP_FR: 34
+  response: '76304620E2588'
+- expected_values:
+    PATHFINDER_TP_FR: 35
+  response: 76304620E258C
+- expected_values:
+    PATHFINDER_TP_FR: 36
+  response: '76304620E2590'
+- expected_values:
+    PATHFINDER_TP_FR: 37
+  response: '76304620E2594'
+- expected_values:
+    PATHFINDER_TP_FR: 38
+  response: '76304620E2598'
+- expected_values:
+    PATHFINDER_TP_FR: 39
+  response: 76304620E259C
+- expected_values:
+    PATHFINDER_TP_FR: 40
+  response: 76304620E25A0
