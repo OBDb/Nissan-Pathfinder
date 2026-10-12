@@ -14,5 +14,8 @@ test_cases:
     7640462F46781
     7490322F1A0
 - expected_values:
+    PATHFINDER_ECT: 95
+  response: 7640462F46787
+- expected_values:
     PATHFINDER_ECT: null
   response: 7640462F467FE

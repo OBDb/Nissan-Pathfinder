@@ -1,4 +1,4 @@
-command_id: 743.763.220E27|fc=1
+command_id: 743.763.220E27|fc=1,f=2021-;-2012
 test_cases:
 - expected_values:
     PATHFINDER_TP_RR: null
