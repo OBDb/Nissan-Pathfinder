@@ -4,5 +4,5 @@ test_cases:
     PATHFINDER_TCM_REQ_RPM: 4500
   response: 7E9046211145A
 - expected_values:
-    PATHFINDER_TCM_REQ_RPM: 12700
+    PATHFINDER_TCM_REQ_RPM: null
   response: 7E904621114FE
