@@ -7,5 +7,5 @@ test_cases:
     PATHFINDER_TCM_RPM: 2303
   response: 7E90562120408FF
 - expected_values:
-    PATHFINDER_TCM_RPM: 4925
-  response: 7E905621204133D
+    PATHFINDER_TCM_RPM: 4893
+  response: 7E905621204131D
