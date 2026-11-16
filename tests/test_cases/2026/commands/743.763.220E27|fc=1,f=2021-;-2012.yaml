@@ -4,6 +4,9 @@ test_cases:
     PATHFINDER_TP_RR: null
   response: '76304620E2700'
 - expected_values:
+    PATHFINDER_TP_RR: 28
+  response: '76304620E2770'
+- expected_values:
     PATHFINDER_TP_RR: 29
   response: '76304620E2774'
 - expected_values:
