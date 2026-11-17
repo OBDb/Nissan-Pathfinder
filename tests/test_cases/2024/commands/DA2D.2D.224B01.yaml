@@ -1,0 +1,11 @@
+command_id: DA2D.2D.224B01
+test_cases:
+- expected_values:
+    PATHFINDER_FR_WHL_SPD: 0
+  response: 18DAF12D05624B010000
+- expected_values:
+    PATHFINDER_FR_WHL_SPD: 66.31
+  response: 18DAF12D05624B0119E7
+- expected_values:
+    PATHFINDER_FR_WHL_SPD: 81.39
+  response: 18DAF12D05624B011FCB
