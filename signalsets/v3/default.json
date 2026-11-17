@@ -39,15 +39,15 @@
   "signals": [
     {"id": "PATHFINDER_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "744", "rax": "764", "cmd": {"22": "4007"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2027 },
+{ "hdr": "744", "rax": "764", "cmd": {"22": "4007"}, "freq": 5, "filter": { "to": 2012, "from": 2021 }, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_AC_STATUS", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Air conditioning status code"}
   ]},
-{ "hdr": "744", "rax": "764", "cmd": {"22": "4008"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2027 },
+{ "hdr": "744", "rax": "764", "cmd": {"22": "4008"}, "freq": 5, "filter": { "to": 2012, "from": 2021 }, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_AAT", "path": "Climate", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
-{ "hdr": "744", "rax": "764", "cmd": {"22": "F467"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2027 },
+{ "hdr": "744", "rax": "764", "cmd": {"22": "F467"}, "freq": 5, "filter": { "to": 2012, "from": 2021 }, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_ECT", "path": "Climate", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "nullmax": 214, "unit": "celsius" }, "name": "Engine coolant temperature", "suggestedMetric": "engineCoolantTemperature"}
   ]},
