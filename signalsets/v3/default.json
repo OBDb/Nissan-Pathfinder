@@ -272,19 +272,19 @@
   "signals": [
     {"id": "PATHFINDER_TCM_SEL_SOL_MON", "path": "Transmission", "fmt": { "len": 8, "max": 0.255, "div": 1000, "unit": "amps" }, "name": "Select solenoid monitor current"}
   ]},
-{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B00"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B00"}, "freq": 0.25, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_FL_WHL_SPD", "path": "Tires", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B01"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B01"}, "freq": 0.25, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_FR_WHL_SPD", "path": "Tires", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B02"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B02"}, "freq": 0.25, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_RL_WHL_SPD", "path": "Tires", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B03"}, "freq": 0.25, "dbgfilter": { "to": 2025, "from": 2027 },
+{ "hdr": "DA2D", "rax": "2D", "cmd": {"22": "4B03"}, "freq": 0.25, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
   "signals": [
     {"id": "PATHFINDER_RR_WHL_SPD", "path": "Tires", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]}
