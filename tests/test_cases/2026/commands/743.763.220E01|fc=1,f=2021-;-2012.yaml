@@ -10,5 +10,5 @@ test_cases:
     PATHFINDER_ODO: 512
   response: '76306620E01000200'
 - expected_values:
-    PATHFINDER_ODO: 2561
-  response: 76306620E01000A01
+    PATHFINDER_ODO: 2816
+  response: 76306620E01000B00
